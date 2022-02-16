@@ -1,0 +1,24 @@
+{
+  "$type": "CustomCardsPack, Assembly-CSharp",
+  "ID": "pack_id",
+  "CustomInfoCards": {
+    "$type": "CustomInfoCard[], Assembly-CSharp",
+    "$values": [
+      {
+        "$type": "CustomInfoCard, Assembly-CSharp",
+        "Title": "card_title",
+        "ID": "card_id",
+        "Icon": "card_icon",
+        "Rare": 2,
+        "Attack": 5,
+        "Defence": 6,
+        "ManaCost": 7,
+        "DefaultBuff": {
+          "$type": "MyStatsIncreaseAllBuff, Assembly-CSharp",
+          "Defence": 3,
+          "Attack": 2
+        }
+      }
+    ]
+  }
+}
