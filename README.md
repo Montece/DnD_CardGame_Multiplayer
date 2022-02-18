@@ -11,7 +11,7 @@ Example of Photon game with multiplayer, collectible card game, strategy, turn-b
 - [Treasure chest FREE sample](https://assetstore.unity.com/packages/3d/environments/fantasy/treasure-chest-free-sample-135417)
 - [Skull Platform](https://assetstore.unity.com/packages/3d/props/skull-platform-105664)
 ### C# Packs Editor
-- [.net framework 4.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
+- [Dot net framework 4.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 - [Newtonsoft.JSON](https://www.newtonsoft.com/json)
 - [Random pictures from google](www.google.com)
 
