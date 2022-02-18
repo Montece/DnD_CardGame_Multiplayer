@@ -20,7 +20,7 @@ You can download latest release of "Test.Version.zip" and launch "Photon Example
 ### How to create the pack?
 You can download latest release of "Packs.Generator.zip" and launch "PhotonExample_PacksGenerator.exe". Move your created file with extension ".pack" to game foler "Photon Example_Data/StreamingAssets/packed/".
 
-### How to donwload source code of game?
+### How to download source code of game?
 Into github, click green button "Code" -> "Download ZIP" OR clone link for clone repository into your pc folder.
 
 ### How to understand source code?
