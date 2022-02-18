@@ -13,7 +13,7 @@ Example of Photon game with multiplayer, collectible card game, strategy, turn-b
 ### C# Packs Editor
 - [Dot net framework 4.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 - [Newtonsoft.JSON](https://www.newtonsoft.com/json)
-- [Random pictures from google](www.google.com)
+- [Random pictures from google](https://www.google.com)
 
 
 ## Как посмотреть, запустить игру?
