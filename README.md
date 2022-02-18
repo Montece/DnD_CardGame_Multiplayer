@@ -14,16 +14,15 @@ Example of Photon game with multiplayer, collectible card game, strategy, turn-b
 - [Dot net framework 4.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 - [Newtonsoft.JSON](https://www.newtonsoft.com/json)
 - [Random pictures from google](https://www.google.com)
+## FAQ
+### How to launch the game?
+You can download [Release](/releases/tag/TestRealise) and launch Test.Version.zip/Photon Example.exe for **2** users. You can launch **Packs.Generator** for creation your own pack (move your file .pack to foler Test.Version.zip/Photon Example_Data/StreamingAssets/packed/)
 
-
-## Как посмотреть, запустить игру?
-Для того, что запустить игру, надо ...
-
-## Как создать свой пак карточек?
+### Как создать свой пак карточек?
 Текст
 
-## Как скачать исходный код игры?
+### Как скачать исходный код игры?
 Текст
 
-## Как мне разобраться в исходном коде игры?
+### Как мне разобраться в исходном коде игры?
 Текст
