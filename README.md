@@ -1,5 +1,5 @@
 # D&D-like cardgame with multiplayer
-![Text](preview.jpg "Text")
+![Text](preview.png "Text")
 Example of Photon game with multiplayer, collectible card game, strategy, turn-based combat and roguelike
 ## Used packages & assets:
 ### Unity Game
