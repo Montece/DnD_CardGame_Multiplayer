@@ -16,13 +16,12 @@ Example of Photon game with multiplayer, collectible card game, strategy, turn-b
 - [Random pictures from google](https://www.google.com)
 ## FAQ
 ### How to launch the game?
-You can download [Release](/releases/tag/TestRealise) and launch Test.Version.zip/Photon Example.exe for **2** users. You can launch **Packs.Generator** for creation your own pack (move your file .pack to foler Test.Version.zip/Photon Example_Data/StreamingAssets/packed/)
+You can download latest release of "Test.Version.zip" and launch "Photon Example.exe" for **2** users.
+### How to create the pack?
+You can download latest release of "Packs.Generator.zip" and launch "PhotonExample_PacksGenerator.exe". Move your created file with extension ".pack" to game foler "Photon Example_Data/StreamingAssets/packed/".
 
-### Как создать свой пак карточек?
-Текст
+### How to donwload source code of game?
+Into github, click green button "Code" -> "Download ZIP" OR clone link for clone repository into your pc folder.
 
-### Как скачать исходный код игры?
-Текст
-
-### Как мне разобраться в исходном коде игры?
+### How to understand source code?
 Текст
