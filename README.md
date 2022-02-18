@@ -23,6 +23,3 @@ You can download latest release of "Packs.Generator.zip" and launch "PhotonExamp
 
 ### How to download source code of game?
 Into github, click green button "Code" -> "Download ZIP" OR clone link for clone repository into your pc folder.
-
-### How to understand source code?
-Текст
